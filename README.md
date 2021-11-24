@@ -1,1 +1,1 @@
-# spcpresale
+# Spicycoin-Presale
